@@ -30,9 +30,9 @@
   - `COMMIT5: This is the way`
 - [ ] `Subir a sus cuentas de GITHUB` el repositorio del código y colocar el `link` en la pregunta/inciso `6` del exámen de blackboard.
 ---
-### Meme:
+Meme: ![alt text](cheemsreprobacion.jpg)
 
 ---
 ### Representación gráfica de exámen:
 
-![Flowchart](https://i.postimg.cc/FsJp36xG/flowchart.jpg)Nombre Roberto Apodo Tote
+![Flowchart](https://i.postimg.cc/FsJp36xG/flowchart.jpg)
