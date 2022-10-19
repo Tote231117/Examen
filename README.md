@@ -30,8 +30,9 @@
   - `COMMIT5: This is the way`
 - [ ] `Subir a sus cuentas de GITHUB` el repositorio del código y colocar el `link` en la pregunta/inciso `6` del exámen de blackboard.
 ---
-Meme: ![alt text](cheemsreprobacion.jpg)
-
+<center>
+Meme:  ![alt text](C:\Users\AlumnoFCA\Desktop\bug372-main\cheemsreprobacion.jpg)
+</center>
 ---
 ### Representación gráfica de exámen:
 
