@@ -33,8 +33,9 @@
 
 ### Meme:
 
-![alt text](https://github.com/Tote231117/Examen/blob/blacklivesmatter/cheemsreprobacion.jpg)
-
+<center>
+![alt text](./cheemsreprobacion.jpg)
+</center>
 
 ---
 ### Representación gráfica de exámen:
